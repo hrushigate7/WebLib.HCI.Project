@@ -1,0 +1,16 @@
+#nav-item{
+
+	margin-left: 20px;
+}
+
+#navbar1 a:hover{
+border-bottom: 2px solid red;
+overflow: hidden;
+
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
